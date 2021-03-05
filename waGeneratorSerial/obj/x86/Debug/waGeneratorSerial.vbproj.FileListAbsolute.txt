@@ -1,0 +1,9 @@
+c:\users\eg\documents\visual studio 2010\Projects\waGeneratorSerial\waGeneratorSerial\bin\Debug\waGeneratorSerial.exe
+c:\users\eg\documents\visual studio 2010\Projects\waGeneratorSerial\waGeneratorSerial\bin\Debug\waGeneratorSerial.pdb
+c:\users\eg\documents\visual studio 2010\Projects\waGeneratorSerial\waGeneratorSerial\bin\Debug\waGeneratorSerial.xml
+c:\users\eg\documents\visual studio 2010\Projects\waGeneratorSerial\waGeneratorSerial\obj\x86\Debug\waGeneratorSerial.Form1.resources
+c:\users\eg\documents\visual studio 2010\Projects\waGeneratorSerial\waGeneratorSerial\obj\x86\Debug\waGeneratorSerial.Resources.resources
+c:\users\eg\documents\visual studio 2010\Projects\waGeneratorSerial\waGeneratorSerial\obj\x86\Debug\waGeneratorSerial.vbproj.GenerateResource.Cache
+c:\users\eg\documents\visual studio 2010\Projects\waGeneratorSerial\waGeneratorSerial\obj\x86\Debug\waGeneratorSerial.exe
+c:\users\eg\documents\visual studio 2010\Projects\waGeneratorSerial\waGeneratorSerial\obj\x86\Debug\waGeneratorSerial.xml
+c:\users\eg\documents\visual studio 2010\Projects\waGeneratorSerial\waGeneratorSerial\obj\x86\Debug\waGeneratorSerial.pdb
